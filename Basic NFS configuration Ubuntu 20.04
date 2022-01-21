@@ -5,7 +5,7 @@ apt update && apt upgrade && apt install nfs-kernel-server
 
 mkdir /var/homes
 
-nano /etc/exports (this page is going to be edited so we can indicate which page to export,in this case is /var/homes 
+nano /etc/exports (this page is going to be edited so we can indicate which page to export,in this case is /var/homes)
 
 # /etc/exports: the access control list for filesystems which may be exported
 #               to NFS clients.  See exports(5).
@@ -19,7 +19,7 @@ nano /etc/exports (this page is going to be edited so we can indicate which page
 #
 /var/homes *(rw,sync,no_subtree_check,no_root_squash) -> add this in the end of this file
 
-exportfs -a  -> this command its to export the files indicated in /etc/exports (the command done before)
+exportfs -a  -> this command is used to export the files indicated in /etc/exports (the command done before)
 
 systemctl restart --now nfs-kernel-server
 
@@ -32,9 +32,8 @@ apt update && apt upgrade && apt install nfs-common
 
 mkdir /var/homes
 
-mount -t nfs serverIP:/var/homes /var/homes -> this command is used to connect to server through the path done in /etc/exports
+mount -t nfs serverIP:/var/homes /var/homes -> this command is used to connect to server through the path done in /etc/exports)
 
-cat /etc/mtab -> copy the last line and paste it AND ADD ,nofail in the end of the line!! on /etc/fstab so it saves the configurations done by the last command so it is not need to do it everytime the machine is rebooted
+cat /etc/mtab -> copy the last line and paste it AND ADD " ,nofail" in the end of the line!! on /etc/fstab so it saves the configurations done by the last command so it is not need to do it everytime the machine is rebooted
 
-
-to check if its working on CLiente do cd /var/homes and the file with the user name is there its the confirmation that is working
+to check if its working on CLiente do cd /var/homes and if the file with the user name is there its the confirmation that is working.
