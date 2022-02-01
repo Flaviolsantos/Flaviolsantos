@@ -8,9 +8,10 @@
 <div> 
   <a href = "mailto:flaviosantos2026@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
    <a href = "mailto:flaviosantos202611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="flávio-santos-1333b422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-santos-1333b422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <p> </p>
-<div align="LEFT">
+
+  <div align="">
   <a href="https://github.com/Flaviolsantos%22%3E
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviolsantos&show_icons=true&theme=Cayman&include_all_commits=true&count_private=true%22/%3E
 </div>
