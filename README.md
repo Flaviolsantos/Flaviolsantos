@@ -5,13 +5,7 @@
 - 📖 I’m currently studying Management of Networks and Computer Systems
 - 📫 How to reach me flaviosantos2026@hotmail.com or flaviosantos202611@gmail.com
 - ☁️Cloud Experience ▶️ AWS
-<div> 
-  <a href = "mailto:flaviosantos2026@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
-   <a href = "mailto:flaviosantos202611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-santos-1333b422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <p> </p>
-
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Flaviolsantos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/flávio-santos-1333b422b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](flaviosantos202611@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](flaviosantos2026@gmail.com)  
 
 
 <!---
