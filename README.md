@@ -10,8 +10,10 @@
    <a href = "mailto:flaviosantos202611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-santos-1333b422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <p> </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flaviolsantos&show_icons=true&theme=Cayman&include_all_commits=true&count_private=true%22/%3E)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/Flaviolsantos%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviolsantos&show_icons=true&theme=Cayman&include_all_commits=true&count_private=true%22/%3E
+</div>
 
 
 <!---
