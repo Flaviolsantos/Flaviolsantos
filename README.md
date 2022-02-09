@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Flaviolsantos
 - 🗺️ I’m from Terceira Island | Azores 🏝️
-- 📆 I’m 19 years old | 13/11/2002 🎂
-- 👀 I’m interested in learning Python and Java ⌨️
 - 📖 I’m currently studying Management of Networks and Computer Systems
 - 📫 How to reach me flaviosantos2026@hotmail.com or flaviosantos202611@gmail.com
 - ☁️Cloud Experience ▶️ AWS
