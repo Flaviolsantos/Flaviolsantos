@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flaviolsantos
 - 🗺️ I’m from Terceira Island | Azores 🏝️
-- 📖 I’m a Management of Networks and Computer Systems Specialist Tecnition 
+- 📖 I’m a Management of Networks and Computer Systems Specialist Technician 
 - 📫 How to reach me flaviosantos2026@hotmail.com or flaviosantos202611@gmail.com
 - ☁️Cloud Experience ▶️ AWS
 
