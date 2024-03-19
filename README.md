@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviolsantos&label=Profile%20views&color=0e75b6&style=flat" alt="flaviolsantos" /> </p>
 
 - 🗺️ I’m from Terceira Island | Azores 🏝️
-- 🌱 I’m currently learning **Comptia A+**
+
 
 - 📫 How to reach me **flaviosantos2026@hotmail.com**
 
