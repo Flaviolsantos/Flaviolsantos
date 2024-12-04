@@ -7,6 +7,9 @@
 - 📫 How to reach me **flaviosantos2026@hotmail.com**
 
 - 📄 Know about my experiences [IT Support Vice-Presidencia Governo Regional dos Açores(Intership)]
+
+- 💼 Working at Apprio as an IT Admin
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/flávio-santos-1333b422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flávio santos" height="30" width="40" /></a>
